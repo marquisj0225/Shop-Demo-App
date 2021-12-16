@@ -22,4 +22,8 @@ Do the same thing for backend and frontend projects
 - SQLite
 
 ## Screenshots
-![Alt text](screenshots/s0.png?raw=true "S10")
+![Screeshots](screenshots/s0.png?raw=true "S0")
+![Screeshots](screenshots/s0.png?raw=true "S1")
+![Screeshots](screenshots/s0.png?raw=true "S2")
+![Screeshots](screenshots/s0.png?raw=true "S3")
+![Screeshots](screenshots/s0.png?raw=true "S4")

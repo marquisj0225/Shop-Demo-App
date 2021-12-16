@@ -1,0 +1,27 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "outDir": "./dist",
+    "rootDir": "src",
+    "sourceMap": true,
+    "resolveJsonModule": true,
+    "skipLibCheck": true,
+    "types": [
+      "node",
+      "jest",
+      "express"
+    ]
+  },
+  "include": [
+    "*.ts",
+    "**/*.ts",
+    "src/routes/*.ts",
+    "src/routes/*.json"
+  ],
+  "exclude": [
+    "./node_modules"
+  ]
+}

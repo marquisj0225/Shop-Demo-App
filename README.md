@@ -23,7 +23,7 @@ Do the same thing for backend and frontend projects
 
 ## Screenshots
 ![Screeshots](screenshots/s0.png?raw=true "S0")
-![Screeshots](screenshots/s0.png?raw=true "S1")
-![Screeshots](screenshots/s0.png?raw=true "S2")
-![Screeshots](screenshots/s0.png?raw=true "S3")
-![Screeshots](screenshots/s0.png?raw=true "S4")
+![Screeshots](screenshots/s1.png?raw=true "S1")
+![Screeshots](screenshots/s2.png?raw=true "S2")
+![Screeshots](screenshots/s3.png?raw=true "S3")
+![Screeshots](screenshots/s4.png?raw=true "S4")

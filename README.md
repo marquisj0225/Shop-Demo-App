@@ -20,3 +20,6 @@ Do the same thing for backend and frontend projects
 - Express
 - Material-UI
 - SQLite
+
+## Screenshots
+![Alt text](screenshots/s0.png?raw=true "S10")
